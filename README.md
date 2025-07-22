@@ -11,32 +11,32 @@ Each challenge includes a detailed explanation, exploit scripts, and proof of co
 
 | Challenge  | Write-up             |
 |------------|----------------------|
-| fd         | [fd/README.md](./fd/README.md) |
-| collision  | [collision/README.md](./collision/README.md) |
-| bof        | [bof/README.md](./bof/README.md) |
-| passcode   | [passcode/README.md](./passcode/README.md) |
-| random     | [random/README.md](./random/README.md) |
-| input2     | [input2/README.md](./input2/README.md) |
-| mistake    | [mistake/README.md](./mistake/README.md) |
-| blackjack  | [blackjack/README.md](./blackjack/README.md) |
-| lotto      | [lotto/README.md](./lotto/README.md) |
-| cmd1       | [cmd1/README.md](./cmd1/README.md) |
-| cmd2       | [cmd2/README.md](./cmd2/README.md) |
-| memcpy     | [memcpy/README.md](./memcpy/README.md) |
-| horcruxes  | [horcruxes/README.md](./horcruxes/README.md) |
+| fd         | [fd_writeup.md](./fd_writeup.md) |
+| collision  | [collision_writeup.md](./collision_writeup.md) |
+| bof        | [bof_writeup.md](./bof_writeup.md) |
+| passcode   | [passcode_writeup.md](./passcode_writeup.md) |
+| random     | [random_writeup.md](./random_writeup.md) |
+| input2     | [input2_writeup.md](./input2_writeup.md) |
+| mistake    | [mistake_writeup.md](./mistake_writeup.md) |
+| blackjack  | [blackjack_writeup.md](./blackjack_writeup.md) |
+| lotto      | [lotto_writeup.md](./lotto_writeup.md) |
+| cmd1       | [cmd1_writeup.md](./cmd1_writeup.md) |
+| cmd2       | [cmd2_writeup.md](./cmd2_writeup.md) |
+| memcpy     | [memcpy_writeup.md](./memcpy_writeup.md) |
+| horcruxes  | [horcruxes_writeup.md](./horcruxes_writeup.md) |
 
 ### Rookiss
 
 | Challenge     | Write-up                  |
 |---------------|---------------------------|
-| brainfuck     | [brainfuck/README.md](./brainfuck/README.md) |
-| simple_login  | [simple_login/README.md](./simple_login/README.md) |
+| brainfuck     | [brainfuck_writeup.md](./brainfuck_writeup.md) |
+| simple_login  | [simple_login_writeup.md](./simple_login_writeup.md) |
 
 ---
 
 ## Structure
 
-Each challenge folder contains:
-- `README.md` — the write-up
+Each challenge consists of:
+- `<challenge>_writeup.md` — the write-up
 - `pwn.py` / `pwn.sh` — exploit or solution if applicable
 - `screenshots/` — optional images for proof or context
