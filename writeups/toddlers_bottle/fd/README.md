@@ -81,7 +81,7 @@ OK, now that we know what the program does we can exploit it to get the flag!
 
 If we take the hint to learn about linux IO we see there are a couple unique file descriptors:
 
-(image from wikipedia)
+![Linux File Descriptors](./screenshots/file_descriptors.png)
 
 The one we should pay our attention to is `stdin`, it describes whatever the user writes into the terminal window. That means we have complete control over it!
 
