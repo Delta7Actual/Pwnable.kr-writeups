@@ -101,7 +101,7 @@ Lets try our plan:
 fd@ubuntu:~$ ./fd 4660
 LETMEWIN
 good job :)
-<FLAG_HERE>
+<fd_flag_here>
 fd@ubuntu:~$
 ```
 
