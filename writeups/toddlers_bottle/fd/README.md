@@ -11,6 +11,8 @@
 > ssh fd@pwnable.kr -p2222 (pw:guest)
 > ```
 
+---
+
 ## Pre-Analysis
 Right, before doing anything else, let's check to see what exactly we are working with.
 
